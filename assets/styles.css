@@ -16,7 +16,8 @@
   
   body {
     align-items: center;
-    background-color: #FD8A8A;
+    /* background-color: #FD8A8A; */
+    background-image: url("https://unsplash.com/photos/EIWCd0414xQ");
     display: flex;
     font-family: -apple-system, 
       BlinkMacSystemFont, 
