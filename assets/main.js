@@ -12,7 +12,7 @@
         yyyy = today.getFullYear(),
         nextYear = yyyy + 1,
         dayMonth = "09/30/",
-        birthday =  "05/08/2023"//dayMonth + yyyy;
+        birthday =  "05/02/2023"//dayMonth + yyyy;
     
     today = mm + "/" + dd + "/" + yyyy;
     if (today > birthday) {
