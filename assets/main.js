@@ -11,8 +11,9 @@
         mm = String(today.getMonth() + 1).padStart(2, "0"),
         yyyy = today.getFullYear(),
         nextYear = yyyy + 1,
-        dayMonth = "05/02/",
-        birthday =  dayMonth + yyyy;
+        // dayMonth = "05/02/";
+        // dayMonth + yyyy;
+        birthday =  "2023-05-02T20:00";
     
     today = mm + "/" + dd + "/" + yyyy;
     if (today > birthday) {
